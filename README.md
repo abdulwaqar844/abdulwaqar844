@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi 
+👋
 
 <!--
 **abdulwaqar844/abdulwaqar844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... React
+- 🔭 I’m currently working on ... React||TypeScript|JavaScript
 - 🌱 I’m currently learning ...Gatsby
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
