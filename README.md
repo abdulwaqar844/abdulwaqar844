@@ -1,17 +1,16 @@
-### Hi 
-👋
+### Hi there I am Abdul Waqar, from Pakisan :pakistan: 👋
+@
 
-<!--
-**abdulwaqar844/abdulwaqar844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :classical_building: Master in Computer Science, at Virtual University Of Pakistan.
 
-Here are some ideas to get you started:
+- :heavy_check_mark: Learned "Front End Development using React"
+- 🌱 Learning "Full Stack Web Application Development" .....
 
-- 🔭 I’m currently working on ... React||TypeScript|JavaScript
-- 🌱 I’m currently learning ...Gatsby
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me:  
+
+- - :octocat: Github              => :link:	https://github.com/abdulwaqar844/
+- - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/abdulwaqar844
+- - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/abdulwaqar844
+- - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/Waqar.dev
+
