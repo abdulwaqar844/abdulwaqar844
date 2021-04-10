@@ -9,7 +9,7 @@
 
 - 📫 How to reach me:  
 
-- - :octocat: Github              => :link:	https://github.com/abdulwaqar844/
+- - :octocat: [Github](https://github.com/abdulwaqar844/) 
 - - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/abdulwaqar844
 - - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/abdulwaqar844
 - - :large_blue_diamond: Facebook (Page): => :link:	https://facebook.com/dev.waqar
