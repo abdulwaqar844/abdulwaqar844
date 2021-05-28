@@ -11,7 +11,7 @@
 - - :large_blue_circle: [FACEBOOK](https://www.facebook.com/abdulwaqar844)
 - - :purple_circle: [TWITTER](https://www.twitter.com/abdulwaqar844)
 - - :large_blue_diamond: [Facebook Page](https://facebook.com/dev.waqar)
-
+- - [WhatsApp](https://api.whatsapp.com/send?phone=923054051834)
 #### Projects I Have Completed
 
 **Project No. 1**
