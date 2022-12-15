@@ -15,24 +15,29 @@
 - 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdulwaqar844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md asif" height="30" width="40" /></a>
+<div align=center>
+<a href="https://www.tiktok.com/@abdulwaqar844"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a> 
+<a href="https://twitter.com/abdulwaqar844"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+&ensp;<a href="https://www.youtube.com/c/abdulwaqar844"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
+&ensp;<a href="https://www.linkedin.com/in/abdulwaqar844/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
+&ensp;<a href="https://www.instagram.com/abdulwaqar844"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
+&ensp;<a href="https://dev.to/abdulwaqar844"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
+<!-- &ensp;<a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a> -->
+&ensp;
 
-<a href="https://fb.com/abdulwaqar844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md asif" height="30" width="40" /></a>
+</div>
 
-<a href="https://instagram.com/abdulwaqar844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lets_code-with_me" height="30" width="40" /></a>
-</p>
 
 </td><td valign="top" width="25%">
 
 ## 🖥️ Fav Tech Stack
 
-- Docker
-- Kubernetes
-- Postgres 
-- Node.js
-- Grafana
+- AWS
+- Firebase
+- React.js
+- Gatsby.js 
 - Next.js
-- Rust (new)
+- Node.js
+
  
 </tr></tr></table> 
