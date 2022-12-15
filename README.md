@@ -41,3 +41,23 @@
 
  
 </tr></tr></table> 
+
+ <table><tr><td valign="top" width="50%">
+
+## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
+ 
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+ 
+</td><td valign="top" width="50%">
+
+## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
+ <!-- DEVTO-BLOG-LIST:START -->
+- [How to send emails using form data in React application without a backend ( server ).]([https://dev.to/francescoxx/what-is-rust-2ii6](https://dev.to/abdulwaqar844/how-to-send-emails-from-a-react-application-without-a-backendserver-29j8))
+- [How to create AWS Serverless Lamba Function and Appsync API with DynamoDB]([https://dev.to/francescoxx/solidity-hello-world-2m08](https://dev.to/abdulwaqar844/how-to-use-serverless-lamba-function-with-appsync-and-dynamodb-2c4))
+- [How to upload Static Website content To AWS S3 + CloudFront Using TypeScript AWS CDK;]([https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h](https://dev.to/abdulwaqar844/how-to-static-website-to-aws-s3-cloudfront-using-typescript-aws-cdk-42h4))
+- [A Beginner's Guide to Configure AWS CDK and deploy Hello World Apps]([https://dev.to/francescoxx/eddie-jaoudes-podcast-notes-2n3g](https://dev.to/abdulwaqar844/a-beginner-s-guide-to-configure-aws-cdk-and-deploy-hello-world-app-54ll))
+- [How to build and deploy a MERN ( React + Express + MongoDB + Node.js ) Stack Application on AWS EC2?]([https://dev.to/tinystacks/api-gateway-rest-vs-http-api-what-are-the-differences-2nj](https://dev.to/abdulwaqar844/how-to-build-and-deploy-a-mernreactexpressmongodbnodejs-stack-application-on-aws-ec2-3e93))
+<!-- DEVTO-BLOG-LIST:END -->
+
+</td></tr></table>
