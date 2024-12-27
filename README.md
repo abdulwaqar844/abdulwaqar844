@@ -1,61 +1,61 @@
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 
-<h1 align="center">Hi 👋, I'm Abdul Waqar</h1>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Abul Waqar!
 
-<h3 align="center"> A passionate Mobile and Web Developer from Pakistan</h3>
+<a href="https://www.facebook.com/abdulwaqar844" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="24px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png"  />
+</a>
 
+<a href="mailto:abdulwaqar844@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" />
+</a>
 
-<table><tr><td align="top" >
- <div>
-  
-- 🔭 I’m currently working on **[Developing Pakistan](https://developingpakistan.com)**
+<a href="https://www.linkedin.com/in/abdulwaqar844/" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
+</a>
 
-- 🌱 I’m currently learning **Cloud Computing & Blockchaing**
+<a href="https://dev.to/abdulwaqar844/" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
+</a>
 
-- 📫 How to reach me **abdulwaqar844@gmail.com**
-  
-</div>
-<h3 align="center">Connect with me:</h3>
-<div align=center>
-<a href="https://www.tiktok.com/@abdulwaqar844"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a> 
-<a href="https://twitter.com/abdulwaqar844"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
-&ensp;<a href="https://www.youtube.com/c/abdulwaqar844"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
-&ensp;<a href="https://www.linkedin.com/in/abdulwaqar844/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
-&ensp;<a href="https://www.instagram.com/abdulwaqar844"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
-&ensp;<a href="https://dev.to/abdulwaqar844"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
-</div>
+<br />
 
-</td>
-<td align="top" >
+### About Me 🚀
 
-## 🖥️ Fav Tech Stack
-
-- AWS
-- Firebase
-- React.js
-- Gatsby.js 
-- Next.js
-- Node.js
- </tr>
-</table> 
+🎓 I'm an experienced **Fullstack Engineer** with a proven track record of 3+ years.</br>
+🔨 Proficient in drawing out business value mainly by using Web Technologies tools (i:e., **AWS**, **NodeJS**, **React**)</br>
+👨‍💻  I'm interested in data-related fields like GenAI and Machine Learning  & I enjoy learning new things.</br>
 
 
- <table><tr><td valign="top" width="50%">
+### My Experiences 🙌
 
-## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
- 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Software Engineer @LingYou S.R.L](https://www.linkedin.com/company/lingoyou/) - Working Software Engineer as at LingoYou
+- [Frontend Developer @Khalis Foundation](https://khalisfoundation.org/) - Frontend Developer at [Khalis Foundation](https://khalisfoundation.org/).
+### Technical Skills 🛠️
 
- 
-</td><td valign="top" width="50%">
+- **_Cloud Platforms_**: Amazon Web Services (AWS)
+- **_Backend_**: NodeJS, FastAPI
+- **_Frontend_**: React, NextJS, Gatsby, Hugo
+- **_Programming Languages_**: Python, JavaScript, TypeScript
+- **_Libraries/Tools_**: GraphQL, MongoDB, SQL, Git
 
-## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
- <!-- DEVTO-BLOG-LIST:START -->
-- [How to send emails using form data in React application without a backend ( server ).](https://dev.to/abdulwaqar844/how-to-send-emails-from-a-react-application-without-a-backendserver-29j8)
-- [How to create AWS Serverless Lamba Function and Appsync API with DynamoDB](https://dev.to/abdulwaqar844/how-to-use-serverless-lamba-function-with-appsync-and-dynamodb-2c4)
-- [How to upload Static Website content To AWS S3 + CloudFront Using TypeScript AWS CDK;](https://dev.to/abdulwaqar844/how-to-static-website-to-aws-s3-cloudfront-using-typescript-aws-cdk-42h4)
-- [A Beginner's Guide to Configure AWS CDK and deploy Hello World Apps](https://dev.to/abdulwaqar844/a-beginner-s-guide-to-configure-aws-cdk-and-deploy-hello-world-app-54ll)
-- [How to build and deploy a MERN ( React + Express + MongoDB + Node.js ) Stack Application on AWS EC2?](https://dev.to/abdulwaqar844/how-to-build-and-deploy-a-mernreactexpressmongodbnodejs-stack-application-on-aws-ec2-3e93)
-<!-- DEVTO-BLOG-LIST:END -->
+### Cloud Services 🛠️
 
-</td></tr></table>
+- 𝑨𝑾𝑺 𝑺𝒆𝒓𝒗𝒊𝒄𝒆𝒔: AWS S3, AWS Kinesis, AWS SNS, A AWS VPC, Cloud Watch, AWS Lambda, AWS EMR, AWS Athena
+
+### Certifications 📜 
+
+- BootCamp 2020 By [PanaCloud](https://panacloud.github.io/bootcamp-2020/)
+- Python Crash Course By Coursera
+- Docker 
+- Introduction to Git & Github
+
+
+
+
+
+### Follow
+- To follow my GitHub, Search by username **`abdulwaqar844`**.
+
+[![Abdul Waqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulwaqar844)](https://github.com/anuraghazra/github-readme-stats)
+
+
